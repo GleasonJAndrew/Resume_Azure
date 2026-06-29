@@ -1,0 +1,12 @@
+{
+  "name": "resume-azure-api",
+  "version": "1.0.0",
+  "description": "Azure Functions project for Resume Azure",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
+  }
+}
